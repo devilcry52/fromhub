@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 master f1
-=======
-branch f1
->>>>>>> dev
